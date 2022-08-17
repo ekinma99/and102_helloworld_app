@@ -25,7 +25,7 @@ GIF created with [ShareX](https://getsharex.com/) for Windows
 
 ## Notes
 Originally, I was using an outdated version of Android Studio which did not work well with Kotlin thus I had to update the version I had. I originally made the app using the older version of Android Studio as result I had issues running the application. I had to recreate the application in the newer version of Android Studio.
-The avatar that I used came from [Open Peeps](https://www.openpeeps.com/)
+The avatar that I used came from [Open Peeps](https://www.openpeeps.com/).
 
 ## License
 
